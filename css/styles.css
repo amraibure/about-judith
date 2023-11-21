@@ -1,11 +1,22 @@
-body{
-    background-color: powderblue;
+body {
+    background-image: url("/about-judith/img/drop.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
+header{
+    text-align: center;
+}
+
+
 h1 {
     color: black;
 }
 h2 {
-    color: blue;
+    color: black;
+}
+h3 {
+    color: brown;
 }
 p {
     color: brown;
