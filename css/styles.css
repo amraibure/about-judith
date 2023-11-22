@@ -1,13 +1,14 @@
 body {
-    background-image: url("/about-judith/img/drop.jpeg");
+    background-image: url("/about-judith/img/rg.gif");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 header{
     text-align: center;
+    font-size: 35px;
+    padding: 30px;
 }
-
 
 h1 {
     color: black;
@@ -16,8 +17,11 @@ h2 {
     color: black;
 }
 h3 {
-    color: brown;
+    color: ghostwhite;
 }
-p {
-    color: brown;
+    
+    pre {
+    color: ghostwhite;
+    grid-template-columns: auto;
+    padding: 10px;
 }
